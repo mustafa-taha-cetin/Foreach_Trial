@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\USER01\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.pdb
